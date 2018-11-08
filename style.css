@@ -1,0 +1,12 @@
+h1, p {
+	font-family: sans-serif;
+	/*'Courier New', Courier, monospace;*/
+}
+
+p {
+	font-size: 1em;
+}
+
+h1 {
+	font-size: 3em;
+}
